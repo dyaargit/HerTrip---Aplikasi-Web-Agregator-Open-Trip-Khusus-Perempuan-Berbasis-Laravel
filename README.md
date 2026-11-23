@@ -1,0 +1,15 @@
+# HerTrip---Aplikasi-Web-Agregator-Open-Trip-Khusus-Perempuan-Berbasis-Laravel
+HerTrip adalah aplikasi web agregator open trip khusus perempuan berbasis Laravel yang menyatukan informasi paket wisata, perbandingan harga, dan ruang perjalanan aman dalam satu pintu. 
+Menyasar pengunjung, wisatawan perempuan terdaftar, serta admin pengelola katalog dan transaksi, platform ini mengkurasi trip terverifikasi dengan filter instan.
+
+Adapun fitur yang dikembangkan mengikuti kebutuhan pengguna:
+•	Halaman beranda dan katalog open trip.
+•	Filter berdasarkan kategori, destinasi, tanggal, dan rentang harga.
+•	Halaman detail trip dengan informasi perjalanan yang tersedia.
+•	Registrasi, login, logout, dan pengelolaan sesi pengguna.
+•	Pembuatan pemesanan dan halaman riwayat pesanan.
+•	Dashboard admin untuk mengelola data kategori, trip, dan pemesanan.
+•	Validasi form dan pesan status untuk membantu pengguna memahami hasil tindakan.
+
+Teknologi yang digunakan dalam pengembangan HerTrip ini ialah: Pemrosesan sisi server menggunakan PHP, penyusunan halaman dengan HTML, seleksi kondisi, looping, array, form, file handling, 
+pengelolaan state, pemrograman berorientasi objek, arsitektur MVC, framework Laravel, serta basis data MySQL.
